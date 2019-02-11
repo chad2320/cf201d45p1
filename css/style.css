@@ -1,23 +1,27 @@
 body {
-    background-color: antiquewhite
+    background-color: rgb(255, 255, 255)
 }
 
 h1 {
-    color: chocolate
+    color: rgb(0, 0, 0)
 }
 
 h2 {
-    color: darkorange
+    color: rgb(0, 0, 0)
 }
 
+p {
+    color: rgb(100, 100, 82)
+    
+}
 
 ul li {
     display: inline;
     width: 100px;
     height: 100px;
     padding: 5px;
-    border: 1px solid blue; 
-    background-color: yellow; 
+    border: 1px solid rgb(0, 0, 0); 
+    background-color: rgb(255, 255, 255); 
   }
 
 ol li {
@@ -25,6 +29,6 @@ ol li {
     width: 100px;
     height: 100px;
     padding: 5px;
-    border: 1px solid rgb(9, 255, 0); 
-    background-color: rgb(240, 18, 37); 
+    border: 1px solid rgb(0, 0, 0); 
+    background-color: rgb(255, 255, 255); 
   }
